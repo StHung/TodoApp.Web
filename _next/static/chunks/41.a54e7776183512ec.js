@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[41],{9041:(e,n,r)=>{"use strict";r.r(n),r.d(n,{default:()=>t});var a=r(5155);r(2790);var l=r(8792);let t=function(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(l.A,{variant:"contained",children:"Hello world"})})}},2790:()=>{}}]);
